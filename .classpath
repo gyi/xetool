@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/commons-lang3-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/concurrentlinkedhashmap-lru-1.4.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/core.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/jdom-2.0.5.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/jnotify-0.94.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/logback-classic-1.0.13.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/logback-core-1.0.13.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/mybatis-3.2.3.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/mysql-connector-java-5.1.27.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/netty-all-4.0.23.Final.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/quartz-2.2.1.jar"/>
+	<classpathentry kind="lib" path="/dungeon_base/lib/quartz-jobs-2.2.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

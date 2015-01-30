@@ -1,0 +1,5 @@
+16:40:11 031 INFO  [main] com.xe.xml.ConfigTool reload system properties success!!!
+16:40:11 034 ERROR [main] com.xe.xml.DefDataTool [] is not exsit
+16:40:11 034 DEBUG [main] com.xe.xml.DefDataTool config file has none
+16:40:11 035 ERROR [main] com.xe.xml.DefDataTool [] is not exsit
+16:40:11 035 DEBUG [main] com.xe.xml.DefDataTool config file has none
